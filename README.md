@@ -17,7 +17,7 @@ Handwriting recognition is one of the compelling research works going on because
 Technical Architecture:
 
 
-![architecture - blueprint](https://github.com/IBM-EPBL/IBM-Project-31195-1660197477/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/architecture.png)
+![architecture - blueprint](https://github.com/IBM-EPBL/IBM-Project-31195-1660197477/blob/main/Project design and Planning/Ideation Phase/architecture.png)
 
 
 
